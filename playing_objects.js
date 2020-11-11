@@ -20,5 +20,4 @@ for(i=0;i<users.length;i++){
   if(users[i].age>=30){
     console.log(users[i].name)
   }
-  
 }
